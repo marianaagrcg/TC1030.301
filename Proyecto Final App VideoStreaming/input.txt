@@ -1,0 +1,72 @@
+Serie 2101 Burn_food 00:44:00 Drama 4.3 1
+Serie 2102 MountRushmore 00:43:00 Drama 4.5 1
+Serie 2103 Steps 00:43:00 Drama 4.7 1
+Serie 2144 Fault 00:44:00 Drama 4.1 4
+Serie 2145 Parenting 00:44:00 Drama 3.4 4
+Serie 2156 Crazy_Town 00:44:00 Drama 4.6 5
+Serie 2207 La_noche_de_un_dia_dificil 00:43:00 Drama 4.5 1
+Serie 2208 La_Fiesta 00:43:00 Drama 3.5 1
+Serie 2209 Salvame 00:43:00 Drama 4.3 1
+Serie 2241 Bestias_Salavajes 00:43:00 Drama 4.0 4
+Serie 2252 Ahora_o_Nunca 00:43:00 Drama 4.7 5 
+Serie 2303 Piloto 00:48:00 Misterio 4.2 1
+Serie 2304 El_Capitan 00:43:00 Misterio 3.1 1
+Serie 2305 Totalidad 00:42:00 Misterio 3.6 1
+Serie 2326 Detective_Joe 00:45:00 Misterio 4.5 2
+Serie 2327 Realmente_Amor 00:50:00 Misterio 4.9 2
+Serie 2408 Renegados 00:41:00 Accion 4.0 1
+Serie 2409 Grodd_Vive 00:41:00 Accion 3.7 1
+Serie 2451 Nora 00:42:00 Accion 3.6 5
+Serie 2452 Bloqueado 00:42:00 Accion 3.1 5
+Serie 2505 Secretos 00:51:00 Misterio 4.1 1
+Serie 2506 Mentiras 00:44:00 Misterio 4.6 1
+Serie 2507 Pasado_y_Presente 00:45:00 Misterio 3.7 1
+Serie 2528 Materia_Oscura 00:54:00 Misterio 4.1 2
+Serie 2529 Los_Viajeros 01:00:00 Misterio 3.2 2
+Serie 2520 Perido_y_Encontrado 00:56:00 Misterio 3.5 2
+Episodio 123 Burn_food 00:44:00 Drama 4.3 2101
+Episodio 124 MountRushmore 00:43:00 Drama 4.5 2101
+Episodio 125 Steps 00:43:00 Drama 4.7 2101
+Episodio 126 Fault 00:44:00 Drama 4.1 2101
+Episodio 127 Parenting 00:44:00 Drama 3.4 2101
+Episodio 128 Crazy_Town 00:44:00 Drama 4.6 2101
+Episodio 223 La_noche_de_un_dia_dificil 00:43:00 Drama 4.5 2202
+Episodio 224 La_Fiesta 00:43:00 Drama 3.5 2202
+Episodio 225 Salvame 00:43:00 Drama 4.3 2202
+Episodio 226 Bestias_Salavajes 00:43:00 Drama 4.0 2202
+Episodio 227 Ahora_o_Nunca 00:43:00 Drama 4.7 2202
+Episodio 323 Piloto 00:48:00 Misterio 4.2 2303
+Episodio 324 El_Capitan 00:43:00 Misterio 3.1 2303
+Episodio 325 Totalidad 00:42:00 Misterio 3.6 2303
+Episodio 326 Detective_Joe 00:45:00 Misterio 4.5 2303
+Episodio 327 Realmente_Amor 00:50:00 Misterio 4.9 2303
+Episodio 423 Renegados 00:41:00 Accion 4.0 2408
+Episodio 424 Grodd_Vive 00:41:00 Accion 3.7 2408
+Episodio 425 Nora 00:42:00 Accion 3.6 2408
+Episodio 426 Bloqueado 00:42:00 Accion 3.1 2408
+Episodio 523 Secretos 00:51:00 Misterio 4.1 2505
+Episodio 524 Mentiras 00:44:00 Misterio 4.6 2505
+Episodio 525 Pasado_y_Presente 00:45:00 Misterio 3.7 2505
+Episodio 526 Materia_Oscura 00:54:00 Misterio 4.1 2505
+Episodio 527 Los_Viajeros 01:00:00 Misterio 3.2 2505
+Episodio 528 Perido_y_Encontrado 00:56:00 Misterio 3.5 2505
+Pelicula 0701 El_cisne_negro 01:48:00 Drama 4.8
+Pelicula 0702 A_dos_metros de ti 01:57:00 Drama 4.3
+Pelicula 0703 Tren_bala 02:06:00 Accion 3.8
+Pelicula 0704 Avatar_2 03:10:00 Accion 4.3
+Pelicula 0705 Top_Gun_Maverick 02:10:00 Accion 4.8
+Pelicula 0706 Matrix 02:11:00 Accion 4.7
+Pelicula 0707 Dont_worry_darling 02:02:00 Misterio 4
+Pelicula 0708 Misterio_a_bordo 01:37:00 Misterio 4.5
+Pelicula 0709 Knives_out 02:10:00 Misterio 4.8
+Pelicula 0710 Sherlock_Holmes 02:03:00 Misterio 4.8
+Pelicula 0711 A_star_is_born 02:15:00 Drama 3.7
+Pelicula 0712 The_Popes_exorcist 01:43:00 Misterio 3.1
+Pelicula 0713 The_Whale 01:57:00 Drama 3.8
+Pelicula 0714 John_Wick_4 02:49:00 Accion 3.9
+Pelicula 0715 The_women_king 02:15:00 Accion 3.4
+Pelicula 0716 Scream 02:06:00 Misterio 3.3
+Pelicula 0717 Prisoners 02:33:00 Misterio 4.0
+Pelicula 0718 Bumblebee 01:54:00 Accion 3.3
+Pelicula 0719 Joe_Bell 01:34:00 Drama 3.1
+Pelicula 0720 Aquaman 02:23:00 Accion 3.4
